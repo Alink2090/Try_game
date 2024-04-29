@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e349cd42-6748-4499-a94f-c1ae2233af7f" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/Joueur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/acc_back.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/acceuil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/bg_back.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/fail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/init_scene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/initialize_game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/skill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/wp_back.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Theme.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/al.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/barbe_blanche.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/extasia.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/gach.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/gilgamesh.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ike.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/leronero.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/lil.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/noct.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/oz.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tes.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/type_0/game_0/Bg.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/type_0/game_0/acceuil.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/type_0/game_0/fail.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/type_0/game_0/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/type_0/game_0/page-2.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/type_0/game_0/wp.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zak.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/.jpeg" afterPathEscaped="$PROJECT_DIR$/src/main/resources/🖤.jpeg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2fXZq8kHHkj2jtAr9kUqdZdph8Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.HelloApplication.executor": "Run",
+    "Application.acceuil.executor": "Run",
+    "Application.init_scene.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Alain Emmanuel Diebe/Coding project/javafx-sdk-22.0.1/lib/javafx.web.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e349cd42-6748-4499-a94f-c1ae2233af7f" name="Changes" comment="" />
+      <created>1713949579010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713949579010</updated>
+      <workItem from="1713949580156" duration="20260000" />
+      <workItem from="1713974287125" duration="4930000" />
+      <workItem from="1713979487346" duration="8069000" />
+      <workItem from="1714003430655" duration="12876000" />
+      <workItem from="1714219981756" duration="11106000" />
+      <workItem from="1714392577512" duration="1089000" />
+      <workItem from="1714408150205" duration="1513000" />
+      <workItem from="1714411546716" duration="1702000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+</project>

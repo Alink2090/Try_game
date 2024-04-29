@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="611.0" prefWidth="823.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="type_0.game_0.bg_back">
+   <children>
+      <AnchorPane prefHeight="613.0" prefWidth="823.0">
+         <children>
+            <AnchorPane layoutX="8.0" layoutY="435.0" prefHeight="165.0" prefWidth="807.0" style="-fx-border-color: #000000; -fx-border-width: 2; -fx-border-radius: 2; -fx-background-color: #cccccc;">
+               <children>
+                  <AnchorPane layoutX="8.0" layoutY="9.0" prefHeight="148.0" prefWidth="161.0" style="-fx-border-color: #000000;">
+                     <children>
+                        <ImageView fx:id="imae5" fitHeight="139.0" fitWidth="139.0" layoutX="11.0" layoutY="5.0" pickOnBounds="true" preserveRatio="true" />
+                     </children>
+                  </AnchorPane>
+                  <ProgressBar fx:id="pv1" layoutX="222.0" layoutY="32.0" prefHeight="18.0" prefWidth="153.0" progress="0.0" />
+                  <ProgressBar fx:id="pd1" layoutX="222.0" layoutY="112.0" prefHeight="18.0" prefWidth="153.0" progress="0.0" />
+                  <ProgressBar fx:id="pm1" layoutX="222.0" layoutY="72.0" prefHeight="18.0" prefWidth="153.0" progress="0.0" />
+                  <Label layoutX="194.0" layoutY="34.0" text="PV" />
+                  <Label layoutX="194.0" layoutY="113.0" text="PD" />
+                  <Label layoutX="194.0" layoutY="73.0" text="PM" />
+                  <AnchorPane layoutX="411.0" layoutY="36.0" prefHeight="115.0" prefWidth="384.0" style="-fx-border-color: #000000;">
+                     <children>
+                        <Button fx:id="b1" layoutX="23.0" layoutY="14.0" mnemonicParsing="false" onAction="#action1" prefHeight="25.0" prefWidth="111.0" text="Button" />
+                        <Button fx:id="b2" layoutX="170.0" layoutY="14.0" mnemonicParsing="false" onAction="#action2" prefHeight="25.0" prefWidth="111.0" text="Button" />
+                        <Button fx:id="b3" layoutX="23.0" layoutY="67.0" mnemonicParsing="false" onAction="#action3" prefHeight="25.0" prefWidth="111.0" text="Button" />
+                        <Button fx:id="b4" layoutX="170.0" layoutY="67.0" mnemonicParsing="false" onAction="#action4" prefHeight="25.0" prefWidth="111.0" text="Button" />
+                        <Label layoutX="134.0" layoutY="14.0" />
+                        <Label layoutX="134.0" layoutY="67.0" />
+                        <Label layoutX="281.0" layoutY="14.0" />
+                        <Label layoutX="281.0" layoutY="67.0" />
+                     </children>
+                  </AnchorPane>
+                  <Label layoutX="543.0" prefHeight="21.0" prefWidth="76.0" text="  Skills">
+                     <font>
+                        <Font size="17.0" />
+                     </font>
+                  </Label>
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutX="8.0" layoutY="14.0" prefHeight="165.0" prefWidth="807.0" style="-fx-border-color: #000000; -fx-border-width: 2; -fx-border-radius: 2; -fx-background-color: #cccccc;">
+               <children>
+                  <AnchorPane layoutX="637.0" layoutY="9.0" prefHeight="148.0" prefWidth="161.0" style="-fx-border-color: #000000;">
+                     <children>
+                        <ImageView fx:id="imae6" fitHeight="139.0" fitWidth="139.0" layoutX="11.0" layoutY="5.0" pickOnBounds="true" preserveRatio="true" />
+                     </children>
+                  </AnchorPane>
+                  <ProgressBar fx:id="pv2" layoutX="461.0" layoutY="25.0" prefHeight="18.0" prefWidth="153.0" progress="0.0" />
+                  <ProgressBar fx:id="pd2" layoutX="461.0" layoutY="105.0" prefHeight="18.0" prefWidth="153.0" progress="0.0" />
+                  <ProgressBar fx:id="pm2" layoutX="461.0" layoutY="65.0" prefHeight="18.0" prefWidth="153.0" progress="0.0" />
+                  <Label layoutX="433.0" layoutY="27.0" text="PV" />
+                  <Label layoutX="433.0" layoutY="106.0" text="PD" />
+                  <Label layoutX="433.0" layoutY="66.0" text="PM" />
+                  <AnchorPane layoutX="20.0" layoutY="17.0" prefHeight="115.0" prefWidth="384.0" style="-fx-border-color: #000000;">
+                     <children>
+                        <Button fx:id="bu1" disable="true" layoutX="23.0" layoutY="14.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="111.0" text="Button" />
+                        <Button fx:id="bu2" disable="true" layoutX="170.0" layoutY="14.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="111.0" text="Button" />
+                        <Button fx:id="bu3" disable="true" layoutX="23.0" layoutY="67.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="111.0" text="Button" />
+                        <Button fx:id="bu4" disable="true" layoutX="170.0" layoutY="67.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="111.0" text="Button" />
+                        <Label layoutX="134.0" layoutY="14.0" text="Label" />
+                        <Label layoutX="134.0" layoutY="67.0" text="Label" />
+                        <Label layoutX="281.0" layoutY="14.0" text="Label" />
+                        <Label layoutX="281.0" layoutY="67.0" text="Label" />
+                     </children>
+                  </AnchorPane>
+                  <Label layoutX="144.0" layoutY="132.0" prefHeight="21.0" prefWidth="76.0" text="  Skills">
+                     <font>
+                        <Font size="17.0" />
+                     </font>
+                  </Label>
+               </children>
+            </AnchorPane>
+            <TextArea fx:id="textArea" editable="false" layoutX="220.0" layoutY="188.0" prefHeight="234.0" prefWidth="384.0" />
+            <Button onAction="#reg"  layoutX="677.0" layoutY="324.0" mnemonicParsing="false" text="use" />
+            <ComboBox fx:id="c24" layoutX="628.0" layoutY="279.0" prefWidth="150.0" promptText="items" />
+            <TextArea fx:id="textArea2" editable="false" layoutX="25.0" layoutY="224.0" prefHeight="200.0" prefWidth="173.0" />
+            <Label layoutX="70.0" layoutY="188.0" prefHeight="26.0" prefWidth="82.0" style="-fx-border-color: #000000;" text="    Stats">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="662.0" layoutY="217.0" prefHeight="26.0" prefWidth="82.0" style="-fx-border-color: #000000;" text="   Items">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+   </children>
+</VBox>
