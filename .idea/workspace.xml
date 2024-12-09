@@ -5,48 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e349cd42-6748-4499-a94f-c1ae2233af7f" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/Joueur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/acc_back.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/acceuil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/bg_back.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/fail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/init_scene.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/initialize_game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/skill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/wp_back.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Theme.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/al.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/barbe_blanche.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/extasia.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/gach.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/gilgamesh.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ike.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/leronero.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/lil.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/noct.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/oz.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tes.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/type_0/game_0/Bg.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/type_0/game_0/acceuil.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/type_0/game_0/fail.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/type_0/game_0/hello-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/type_0/game_0/page-2.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/type_0/game_0/wp.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/zak.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/.jpeg" afterPathEscaped="$PROJECT_DIR$/src/main/resources/🖤.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/type_0/game_0/bg_back.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/bg_back.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/type_0/game_0/fail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/fail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/type_0/game_0/skill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/type_0/game_0/skill.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,30 +44,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.HelloApplication.executor": "Run",
-    "Application.acceuil.executor": "Run",
-    "Application.init_scene.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Alain Emmanuel Diebe/Coding project/javafx-sdk-22.0.1/lib/javafx.web.jar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Global Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.acceuil.executor&quot;: &quot;Run&quot;,
+    &quot;Application.init_scene.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alain Emmanuel Diebe/Downloads/contact project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -128,8 +90,48 @@
       <workItem from="1714219981756" duration="11106000" />
       <workItem from="1714392577512" duration="1089000" />
       <workItem from="1714408150205" duration="1513000" />
-      <workItem from="1714411546716" duration="1702000" />
+      <workItem from="1714411546716" duration="2035000" />
+      <workItem from="1714497135370" duration="2000" />
+      <workItem from="1714576289946" duration="175000" />
+      <workItem from="1714879582121" duration="251000" />
+      <workItem from="1715179337764" duration="839000" />
+      <workItem from="1715771302207" duration="1333000" />
+      <workItem from="1717365434883" duration="1504000" />
+      <workItem from="1718222960070" duration="418000" />
+      <workItem from="1720436003401" duration="3585000" />
+      <workItem from="1721031756072" duration="1536000" />
+      <workItem from="1725830177020" duration="99000" />
+      <workItem from="1725889232360" duration="315000" />
+      <workItem from="1725955049370" duration="10859000" />
+      <workItem from="1725967603310" duration="10792000" />
+      <workItem from="1725991766082" duration="658000" />
+      <workItem from="1726001557135" duration="4000" />
+      <workItem from="1726041228313" duration="1156000" />
+      <workItem from="1726501917686" duration="606000" />
+      <workItem from="1726652220695" duration="10000" />
+      <workItem from="1727108296486" duration="13000" />
+      <workItem from="1727695628940" duration="1276000" />
+      <workItem from="1730804028143" duration="69000" />
+      <workItem from="1730806378032" duration="621000" />
+      <workItem from="1731324193593" duration="1350000" />
+      <workItem from="1732008627188" duration="183000" />
+      <workItem from="1732457890314" duration="77000" />
+      <workItem from="1732523461820" duration="11000" />
+      <workItem from="1732523638036" duration="848000" />
+      <workItem from="1732794416362" duration="107000" />
+      <workItem from="1732794857351" duration="973000" />
+      <workItem from="1732796000213" duration="2087000" />
+      <workItem from="1732798584740" duration="7000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1714413327695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714413327695</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -31,7 +31,7 @@ public class skill {
     }
 
     public void set_nbr_used(int i) {
-        nbr_used = i;
+        nbr_used = i ;
     }
 
 }
